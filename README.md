@@ -1,7 +1,6 @@
 <!DOCTYPE>
 <html>
    <body>
-
-    <h1> hello world!</h1>
+    <b> hello world!</b>
    </body>
 </html>
